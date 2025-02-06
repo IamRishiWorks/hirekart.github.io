@@ -7710,7 +7710,7 @@ a.text-theme:hover,
 .footer-contact_link {
     display: inline-block;
     color: var(--body-color);
-    font-size: 20px;
+    font-size: 14px;
     font-weight: 600
 }
 
@@ -7974,7 +7974,7 @@ a.text-theme:hover,
 }
 
 .footer-widget .contact-feature_link {
-    font-size: 18px;
+    font-size: 14px;
     margin-bottom: -0.4em;
     display: block
 }
@@ -17430,7 +17430,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .contact-feature_link {
-    font-size: 20px;
+    font-size: 14px;
     font-weight: 600;
     color: var(--title-color)
 }
