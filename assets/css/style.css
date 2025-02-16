@@ -1838,8 +1838,8 @@ textarea.is-invalid {
     line-height: 35px;
     font-size: 18px;
     z-index: 1;
-    color: var(--white-color);
-    background-color: var(--theme-color);
+    color: var(--title-color);
+    /* background-color: var(--theme-color); */
     border-radius: 50%
 }
 
@@ -1995,13 +1995,14 @@ textarea.is-invalid {
     padding: 0;
     font-size: 20px;
     border: none;
-    background-color: var(--theme-color);
-    color: var(--white-color);
+    background-color: transparent;
+    color: var(--title-color);
     display: inline-block;
     border-radius: 4px
 }
 
 .th-menu-toggle:hover {
+    color: var(--white-color);
     background-color: var(--title-color)
 }
 
